@@ -1,4 +1,4 @@
-# DIP - DAO Improvement Proposals
+# AIP - DAO Improvement Proposals
 
 _"How a bill becomes a law"_
 
@@ -15,8 +15,8 @@ If you have questions or feedback, please ask in [#dip-discussion in the communi
 
 ## Status key
 
-* Draft: DIP is in process of being written; author is not yet soliciting feedback from the community at large
-* In Discussion: DIP is under active consideration by the community
-* Approved: DIP has been approved by rough consensus, and pending development and testing
-* Deployed: Code to implement DIP has been merged and deployed to the network
-* Closed: DIP abandoned, rendered obsolete by other changes, or otherwise withdrawn by the author
+* Draft: AIP is in process of being written; author is not yet soliciting feedback from the community at large
+* In Discussion: AIP is under active consideration by the community
+* Approved: AIP has been approved by rough consensus, and pending development and testing
+* Deployed: Code to implement AIP has been merged and deployed to the network
+* Closed: AIP abandoned, rendered obsolete by other changes, or otherwise withdrawn by the author

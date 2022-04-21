@@ -1,9 +1,9 @@
-# DIP Template
+# AIP Template
 
 - Author(s): <!-- your GitHub @username -->
 - Start Date: <!-- fill me in with today's date, YYYY-MM-DD -->
 - Category: <!-- economic, technical, meta -->
-- Original DIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request -->
+- Original AIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request -->
 - Tracking Issue: <!-- leave this empty; maintainer will create a discussion issue -->
 
 # Summary
@@ -20,10 +20,10 @@ solve? What is the expected outcome?
 # Stakeholders
 [stakeholders]: #stakeholders
 
-* Who is affected by this DIP?
+* Who is affected by this AIP?
 
-* How are we soliciting feedback on this DIP from these stakeholders? Note that
-  they may not be watching the DIPs repository or even aren't directly active in
+* How are we soliciting feedback on this AIP from these stakeholders? Note that
+  they may not be watching the AIPs repository or even aren't directly active in
   the AUTH Community Slack channels.
 
 # Detailed Explanation
@@ -59,15 +59,15 @@ space. This is probably the most important section!
 # Unresolved Questions
 [unresolved]: #unresolved-questions
 
-- What parts of the design do you expect to resolve through the DIP process
+- What parts of the design do you expect to resolve through the AIP process
   before this gets merged?
 
 - What parts of the design do you expect to resolve through the implementation
   of this feature?
 
-- What related issues do you consider out of scope for this DIP that could be
+- What related issues do you consider out of scope for this AIP that could be
   addressed in the future independently of the solution that comes out of this
-  DIP?
+  AIP?
 
 # Deployment Impact
 [deployment-impact]: #deployment-impact
