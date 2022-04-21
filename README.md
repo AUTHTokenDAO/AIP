@@ -1,10 +1,10 @@
-# AIP - DAO Improvement Proposals
+# AIP - Authentic Improvement Proposal
 
 _"How a bill becomes a law"_
 
-The process and details for how to participate in DAO Improvement Proposals for AUTH Token are still being formed.
+The process and details for how to participate in the AUTH DAO's Improvement Proposals are still being formed.
 
-If you have questions or feedback, please ask in [#dip-discussion in the community Discord](https://discord.gg/). Each proposal in discussion also has its own dedicated channel.
+If you have questions or feedback, please ask in [#dip-discussion in the community Discord](https://discord.gg/U2FnxTmNed). Each proposal in discussion also has its own dedicated channel.
 
 ## Index of proposals
 
