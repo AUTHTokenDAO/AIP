@@ -10,7 +10,7 @@ If you have questions or feedback, please ask in [#dip-discussion in the communi
 
 | ID | Title | Status |
 | -- | ----- | ------ |
-| 1  | Correct 18.5B Max Supply | In Discussion |
+| 1  | [Correct 18.5B Max Supply]( 0001-round-total-supply) | In Discussion |
 | 2  | Multi-Vendor Support | Approved |
 
 ## Status key
